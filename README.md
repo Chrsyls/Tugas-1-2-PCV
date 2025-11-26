@@ -20,13 +20,6 @@ Program ini menerapkan beberapa teknik smoothing pada video dari webcam. Filter 
 
 ## Cara Menjalankan
 
-1. Install dependensi:
-
-   ```bash
-   pip install opencv-python numpy
-   ```
-2. Jalankan program:
-
    ```bash
    python tugas_1_smoothing_dan_blurring.py
    ```
@@ -63,13 +56,6 @@ Program ini mendeteksi objek berwarna merah, hijau, dan biru menggunakan ruang w
 * Mode HSV viewer untuk analisis channel
 
 ## Cara Menjalankan
-
-1. Install dependensi:
-
-   ```bash
-   pip install opencv-python numpy
-   ```
-2. Jalankan program:
 
    ```bash
    python tugas_2_deteksi_hsv.py
