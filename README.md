@@ -1,4 +1,4 @@
-Tugas 1: Smoothing dan Blurring
+## Tugas 1: Smoothing dan Blurring
 
 ## Deskripsi
 
@@ -42,7 +42,7 @@ Program ini menerapkan beberapa teknik smoothing pada video dari webcam. Filter 
 
 ---
 
-Tugas 2: Deteksi Warna HSV
+## Tugas 2: Deteksi Warna HSV
 
 ## Deskripsi
 
